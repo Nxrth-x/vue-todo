@@ -1,4 +1,4 @@
-# tictactoe
+# Todoapp
 
 ## Project setup
 ```
